@@ -240,7 +240,7 @@ nav li a{
 }
 @media (max-width: 991.98px) { 
   .wave svg{
-    height: 200px ;
+    height: 220px ;
     /* width: 90%; */
   
   } 
@@ -258,25 +258,25 @@ nav li a{
     /* width: 100%; */
     
   
-    top: 0px;
+    top: -30px;
    
   
   }
   .wave svg{
-    height: 170px;
+    height: 196px;
  
   }
  }
  @media (max-width: 575.98px) { 
   .wave svg{
-    height: 160px;
+    height: 196px;
  
   }
   .wave{
     /* width: 100%; */
     
   
-    top: 0px;
+    top: -30px;
    
   
   }
@@ -370,7 +370,7 @@ main p{
    margin: 20px 0;
   }
   .toProducts{
-    width: 50%;
+    width: 60%;
     font-size: 18px;
     margin:40px auto;
   }
